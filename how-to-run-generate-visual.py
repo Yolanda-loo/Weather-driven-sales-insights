@@ -1,0 +1,2 @@
+python
+scripts/visualize_sales_weather.py
